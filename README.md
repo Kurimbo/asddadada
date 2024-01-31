@@ -1,5 +1,3 @@
-# asddadada
-Datathon Int 2023
+#
+Datathon SMU, Dallas 2023
 
-
-WTF DO WE DO HAHAHA
